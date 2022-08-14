@@ -63,6 +63,7 @@ header .contact button:hover{
 nav{
     background-color: rgb(244, 235, 232);
    margin-top: 90px;
+ 
 }
 
 nav .menu{
@@ -73,8 +74,8 @@ nav .menu{
     align-items: center;
     position: fixed;
     font-weight: bold;
-    background-color: white;
-   
+    background-color: rgb(216, 216, 216);
+    border-radius: 10px;
     color:brown;    
     
 
